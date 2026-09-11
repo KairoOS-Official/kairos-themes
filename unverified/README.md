@@ -21,7 +21,7 @@ Les thèmes non vérifiés sont des créations communautaires qui n'ont pas pass
 
 ### Sources recommandées
 
-1. **GitHub** : Cherchez des repos avec le topic `kairoos-theme`
+1. **GitHub** : Cherchez des repos avec le topic [`kairoos-themes`](https://github.com/topics/kairoos-themes)
 2. **Discord** : Canal #community-themes
 3. **GitHub Discussions** : [kairos-community](https://github.com/KairoOS-Official/kairos-community/discussions)
 
@@ -92,7 +92,7 @@ mon-theme/
 ### Étapes
 
 1. Créez votre dépôt GitHub
-2. Ajoutez le topic `kairoos-theme` dans les settings du repo
+2. Ajoutez le topic `kairoos-themes` dans les settings du repo
 3. Partagez l'URL :
    - **Discord** : canal #community-themes
    - **GitHub** : Discussion dans [kairos-community](https://github.com/KairoOS-Official/kairos-community/discussions)
