@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KairoOS-Official/KairoOS/main/public/logo.png?v=2" alt="KaïroOS" width="160" />
+</p>
+
 # 🎨 KaïroOS Themes Store
 
 Dépôt officiel des thèmes pour **KaïroOS** — le frontend d'arcade moderne et 100% personnalisable.
